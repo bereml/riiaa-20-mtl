@@ -7,5 +7,5 @@ En este repositorio encontrarás los materiales para el taller en la [RIIAA 2020
 - [Avance](media/avance.mp4)
 - Diapositivas
   - [Aprendizaje Profundo](slides/1_intro_ap.pdf)
-  - [Aprendizaje Autosupervisado](slides/2_mtl.pdf)
+  - [Meta Aprendizaje](slides/2_mtl.pdf)
 - [Libretas](notebooks)
